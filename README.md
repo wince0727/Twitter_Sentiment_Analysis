@@ -32,7 +32,7 @@ Positive : 12618
 Neutral  : 9428  
 Negative : 5435
 
-![Task 4 Output]()
+![Task 4 Output](https://github.com/wince0727/Twitter_Sentiment_Analysis/blob/main/Output.png)
 
 # Conclusion
 
