@@ -1,5 +1,17 @@
 # Twitter Sentiment Analysis
 
+COMPANY: CODTECH IT SOLUTIONS
+
+NAME: S.WINCE
+
+INTERN ID: CTIS5393
+
+DOMAIN: DATA ANALYTICS
+
+DURATION: 4 WEEEKS
+
+MENTOR: NEELA SANTOSH
+
 # Overview
 This project performs **sentiment analysis on Twitter data** using Python. Tweets are analyzed using Natural Language Processing (NLP) techniques and classified into **Positive, Neutral, or Negative** sentiments.
 
