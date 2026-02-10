@@ -27,12 +27,12 @@ This project performs **sentiment analysis on Twitter data** using Python. Tweet
 5. Displayed sentiment distribution  
 
 # Output
-```text
+
 Positive : 12618  
 Neutral  : 9428  
 Negative : 5435
 
-![Task 4 Output](output.png)
+![Task 4 Output]()
 
 # Conclusion
 
